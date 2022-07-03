@@ -1,0 +1,2 @@
+# store-modelo
+Manage entities
